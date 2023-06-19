@@ -1,1 +1,7 @@
 file created with git bash 
+
+Let's see if I have undone these commands:
+git config --global --unset credential.useHttpPath
+https://github.com/wondertedy7/demo-conflict.git
+
+Let's see now if I have succeeded
