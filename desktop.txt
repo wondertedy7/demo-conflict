@@ -1,5 +1,5 @@
 file created with git desktop commit
 
-added line trough git bash commit
+added line through git bash commit
 
-added line through git bash commit 
+added line through git desktop commit 
